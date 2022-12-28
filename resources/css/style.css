@@ -1,11 +1,37 @@
 html {
 font-family: Verdana;
-font-weight: normal;
-font-size: 50px;
 color: white;
+text-align: center;
 }
 
-header {
-  text-align: center;
-
+body {
+  margin: 8px 8px;
 }
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  margin: 33.5px auto;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  }
+
+h3 {
+  color: grey;
+  font-size: 21px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+p {
+  margin: 21px auto;
+}
+
+.copyright {
+  text-align: right;
+  color: grey;
+  font-size: 21px;
